@@ -15,6 +15,8 @@ All notable changes to this project will be documented in this file.
 - Unit tests for hide-explore module (7 tests)
 - Feature: Hide Reels tab (MutationObserver, settings integration)
 - Unit tests for hide-reels module (7 tests)
+- Feature: Following-Only Feed (filters Suggested/Recommended posts)
+- Unit tests for filter-feed module (11 tests)
 - Test setup file with chrome global stubs
 
 ### Changed

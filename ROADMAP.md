@@ -193,11 +193,11 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Suggested posts are hidden from feed
-- [ ] Posts from followed accounts remain visible
-- [ ] Feature can be toggled on/off via settings
-- [ ] Works as user scrolls (new content filtered)
-- [ ] No false positives (real followed posts not hidden)
+- [x] Suggested posts are hidden from feed
+- [x] Posts from followed accounts remain visible
+- [x] Feature can be toggled on/off via settings
+- [x] Works as user scrolls (new content filtered)
+- [x] No false positives (real followed posts not hidden)
 
 ### Tests
 
@@ -217,10 +217,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] E2E verification successful
-- [ ] No false positives (followed posts visible)
-- [ ] Works on scroll
+- [x] No false positives (followed posts visible)
+- [x] Works on scroll
 
 ---
 
