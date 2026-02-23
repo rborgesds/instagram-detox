@@ -328,10 +328,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] All 5 docs exist in `/docs`
-- [ ] Each module has corresponding documentation
-- [ ] README is complete and accurate
-- [ ] Documentation reflects current implementation
+- [x] All 5 docs exist in `/docs`
+- [x] Each module has corresponding documentation
+- [x] README is complete and accurate
+- [x] Documentation reflects current implementation
 
 ### Tests
 
@@ -347,8 +347,8 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All 5 docs exist
-- [ ] Documentation is accurate and complete
+- [x] All 5 docs exist
+- [x] Documentation is accurate and complete
 
 ---
 

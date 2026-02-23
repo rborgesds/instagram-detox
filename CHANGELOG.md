@@ -21,6 +21,7 @@ All notable changes to this project will be documented in this file.
 - Unit tests for video-controls module (9 tests)
 - Test setup file with chrome global stubs
 - Popup UI with keyboard accessibility and ARIA attributes
+- Documentation (architecture, content-scripts, privacy, testing, build)
 
 ### Changed
 - Updated project structure in README
