@@ -20,6 +20,7 @@ All notable changes to this project will be documented in this file.
 - Feature: Native Video Controls (adds HTML5 controls to Reels and Stories)
 - Unit tests for video-controls module (9 tests)
 - Test setup file with chrome global stubs
+- Popup UI with keyboard accessibility and ARIA attributes
 
 ### Changed
 - Updated project structure in README

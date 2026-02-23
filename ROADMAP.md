@@ -281,12 +281,12 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Popup displays 4 toggles: Hide Explore, Hide Reels, Filter Feed, Video Controls
-- [ ] Toggles persist to chrome.storage.local
-- [ ] Content scripts react to settings changes in real-time
-- [ ] Popup is keyboard accessible
-- [ ] Default settings applied on first install
-- [ ] Visual design matches privacy-focused aesthetic
+- [x] Popup displays 4 toggles: Hide Explore, Hide Reels, Filter Feed, Video Controls
+- [x] Toggles persist to chrome.storage.local
+- [x] Content scripts react to settings changes in real-time
+- [x] Popup is keyboard accessible
+- [x] Default settings applied on first install
+- [x] Visual design matches privacy-focused aesthetic
 
 ### Tests
 
@@ -307,10 +307,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] E2E verification successful
-- [ ] Keyboard accessible
-- [ ] Settings persist correctly
+- [x] Keyboard accessible
+- [x] Settings persist correctly
 
 ---
 

@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 import { resolve } from 'path';
-import { copyFileSync, mkdirSync, existsSync } from 'fs';
+import { copyFileSync, mkdirSync, existsSync, readFileSync, writeFileSync } from 'fs';
 
 function copyManifest() {
   return {
@@ -20,7 +20,14 @@ function copyManifest() {
       copyFileSync('icons/icon16.png', 'dist/icons/icon16.png');
       copyFileSync('icons/icon48.png', 'dist/icons/icon48.png');
       copyFileSync('icons/icon128.png', 'dist/icons/icon128.png');
-      copyFileSync('dist/src/popup/index.html', 'dist/popup/index.html');
+
+      const htmlPath = 'dist/src/popup/index.html';
+      if (existsSync(htmlPath)) {
+        let html = readFileSync(htmlPath, 'utf-8');
+        html = html.replace('/popup.js', 'popup.js');
+        html = html.replace('/assets/popup.css', 'styles.css');
+        writeFileSync('dist/popup/index.html', html);
+      }
     },
   };
 }
