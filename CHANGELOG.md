@@ -9,3 +9,8 @@ All notable changes to this project will be documented in this file.
 - Basic folder structure
 - Placeholder content script
 - Basic popup UI with settings toggles
+- Core utilities (types, storage, DOM helpers, selectors, constants)
+- Unit tests for utilities (19 tests)
+
+### Changed
+- Updated project structure in README

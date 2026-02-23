@@ -70,11 +70,11 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Storage utility reads/writes to chrome.storage.local
-- [ ] DOM utilities safely handle missing elements
-- [ ] Selectors use semantic attributes (href, role, aria-label), not classes
-- [ ] All utilities strictly typed (no `any`)
-- [ ] Default settings properly initialized
+- [x] Storage utility reads/writes to chrome.storage.local
+- [x] DOM utilities safely handle missing elements
+- [x] Selectors use semantic attributes (href, role, aria-label), not classes
+- [x] All utilities strictly typed (no `any`)
+- [x] Default settings properly initialized
 
 ### Tests
 
@@ -90,10 +90,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
-- [ ] Lint checks pass
-- [ ] No `any` types used
-- [ ] Selectors documented and class-free
+- [x] All unit tests pass
+- [x] Lint checks pass
+- [x] No `any` types used
+- [x] Selectors documented and class-free
 
 ---
 
