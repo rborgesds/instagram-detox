@@ -194,6 +194,17 @@ Each module must be documented.
 - Update version in manifest.json and package.json.
 - Maintain CHANGELOG.md.
 
+## Development Strategy
+
+The agent must implement features in milestone-based increments.
+
+Each milestone must:
+
+- Compile independently
+- Pass tests
+- Be manually verifiable
+- Avoid partial implementation of future milestones
+
 ## Accessibility
 
 - Do not remove core navigation functionality.

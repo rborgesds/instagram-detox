@@ -94,23 +94,26 @@ The extension only modifies the DOM of `https://www.instagram.com/*`.
 instagram-detox/
 │
 ├── src/
-│ ├── content/
-│ ├── popup/
-│ ├── utils/
-│ ├── styles/
-│ └── types/
+│   ├── content/
+│   ├── popup/
+│   ├── utils/
+│   ├── styles/
+│   └── types/
 │
 ├── tests/
-│ ├── unit/
-│ └── e2e/
+│   ├── unit/
+│   └── e2e/
 │
 ├── docs/
+├── icons/
 ├── manifest.json
 ├── tsconfig.json
 ├── package.json
 ├── .eslintrc.json
 ├── .prettierrc
-└── AGENTS.md
+├── AGENTS.md
+├── ROADMAP.md
+└── CHANGELOG.md
 
 All architecture documentation lives inside the `docs/` folder.
 
