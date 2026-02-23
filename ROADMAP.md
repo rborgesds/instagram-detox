@@ -237,11 +237,11 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Reels have native pause/play, scrub, volume controls
-- [ ] Stories have native controls
-- [ ] Feature can be toggled on/off via settings
-- [ ] Controls appear on video load
-- [ ] Does not interfere with video playback
+- [x] Reels have native pause/play, scrub, volume controls
+- [x] Stories have native controls
+- [x] Feature can be toggled on/off via settings
+- [x] Controls appear on video load
+- [x] Does not interfere with video playback
 
 ### Tests
 
@@ -261,9 +261,9 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] E2E verification successful
-- [ ] Controls work on both Reels and Stories
+- [x] Controls work on both Reels and Stories
 
 ---
 

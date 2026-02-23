@@ -17,6 +17,8 @@ All notable changes to this project will be documented in this file.
 - Unit tests for hide-reels module (7 tests)
 - Feature: Following-Only Feed (filters Suggested/Recommended posts)
 - Unit tests for filter-feed module (11 tests)
+- Feature: Native Video Controls (adds HTML5 controls to Reels and Stories)
+- Unit tests for video-controls module (9 tests)
 - Test setup file with chrome global stubs
 
 ### Changed
