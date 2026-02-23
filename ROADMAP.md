@@ -366,14 +366,14 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] All E2E tests pass
-- [ ] Unit test coverage >80%
+- [x] Unit test coverage >80%
 - [ ] No memory leaks (extended use test)
 - [ ] No scrolling performance degradation
-- [ ] Lint and format checks pass
-- [ ] Chrome Web Store compliance verified
-- [ ] Icons created (16, 48, 128px)
+- [x] Lint and format checks pass
+- [x] Chrome Web Store compliance verified
+- [x] Icons created (16, 48, 128px)
 
 ### Tests
 
@@ -394,11 +394,11 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All tests pass
-- [ ] Coverage target met
+- [x] All tests pass
+- [x] Coverage target met
 - [ ] No memory leaks
 - [ ] No performance issues
-- [ ] Chrome Web Store ready
+- [x] Chrome Web Store ready
 
 ---
 

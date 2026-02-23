@@ -22,6 +22,9 @@ All notable changes to this project will be documented in this file.
 - Test setup file with chrome global stubs
 - Popup UI with keyboard accessibility and ARIA attributes
 - Documentation (architecture, content-scripts, privacy, testing, build)
+- E2E test suite structure (Playwright)
+- Additional unit tests for constants and popup (58 tests total)
+- Coverage reporting with @vitest/coverage-v8
 
 ### Changed
 - Updated project structure in README
