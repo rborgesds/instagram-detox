@@ -1,0 +1,1 @@
+// Instagram Detox - Content Script
