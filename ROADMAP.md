@@ -153,10 +153,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Reels tab is hidden on Instagram main page
-- [ ] Feature can be toggled on/off via settings
-- [ ] Works with Instagram's SPA navigation
-- [ ] No console errors
+- [x] Reels tab is hidden on Instagram main page
+- [x] Feature can be toggled on/off via settings
+- [x] Works with Instagram's SPA navigation
+- [x] No console errors
 
 ### Tests
 
@@ -175,9 +175,9 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] E2E verification successful
-- [ ] Feature toggles correctly via settings
+- [x] Feature toggles correctly via settings
 
 ---
 
