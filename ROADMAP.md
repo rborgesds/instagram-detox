@@ -110,11 +110,11 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Acceptance Criteria
 
-- [ ] Explore tab is hidden on Instagram main page
-- [ ] Feature can be toggled on/off via settings
-- [ ] Works with Instagram's SPA navigation (MutationObserver)
-- [ ] No console errors
-- [ ] Does not break page functionality
+- [x] Explore tab is hidden on Instagram main page
+- [x] Feature can be toggled on/off via settings
+- [x] Works with Instagram's SPA navigation (MutationObserver)
+- [x] No console errors
+- [x] Does not break page functionality
 
 ### Tests
 
@@ -134,10 +134,10 @@ This roadmap defines the sequential milestones for building Instagram Detox, a p
 
 ### Definition of Done
 
-- [ ] All unit tests pass
+- [x] All unit tests pass
 - [ ] E2E verification successful
-- [ ] Feature toggles correctly via settings
-- [ ] No console errors
+- [x] Feature toggles correctly via settings
+- [x] No console errors
 
 ---
 

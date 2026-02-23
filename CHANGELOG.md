@@ -11,6 +11,8 @@ All notable changes to this project will be documented in this file.
 - Basic popup UI with settings toggles
 - Core utilities (types, storage, DOM helpers, selectors, constants)
 - Unit tests for utilities (19 tests)
+- Feature: Hide Explore tab (MutationObserver, settings integration)
+- Unit tests for hide-explore module (7 tests)
 
 ### Changed
 - Updated project structure in README
